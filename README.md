@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, JavaScript, C/C++, React , Next.js , Node js**
 
-- 📫 How to reach me **developervishal8gmail.com**
+- 📫 How to reach me **developervishal8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
