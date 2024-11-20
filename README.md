@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React JS , Node JS**
+- 🌱 I’m currently learning **Data Structures and Algorithms (DSA) in Java** and **Backend Development****
 
-- 💬 Ask me about **Java , JavaScript, Gsap,HTML,CSS,Tailwind.**
+- 💬 Ask me about **Java, JavaScript, C/C++, React , Next.js , Node js**
 
 - 📫 How to reach me **developervishal8gmail.com**
 
